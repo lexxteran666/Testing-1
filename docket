@@ -19,3 +19,4 @@ docker stop <container_id>
 docker rm <container_id>
 docker tag my-python-app username/my-python-app
 docker push username/my-python-app
+docker pull nginx
